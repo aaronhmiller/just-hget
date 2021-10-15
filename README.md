@@ -1,2 +1,2 @@
 # just-hget
-Dockerized hget utility implementation
+Dockerized [hget](https://github.com/bevacqua/hget) utility implementation
